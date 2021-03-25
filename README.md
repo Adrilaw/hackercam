@@ -18,9 +18,7 @@ apt-get -y install php openssh git wget
 
 ## Installing (Kali Linux/Parrot os/Termux):
 
-git clone https://github.com/Adrilaw/hackercam.git
-cd hackercam
-bash hackcams.sh
+git clone https://github.com/Adrilaw/hackercam.git cd hackercam bash hackcams.sh
 
 
 ```

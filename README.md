@@ -6,7 +6,7 @@
   <li>Termux</li>
   <li>MacOS</li>
   <li>Ubuntu</li>
-  <li>Perrot Sec OS</li>
+  <li>Parrot Sec OS</li>
 </ul>
 
 # Installing and requirements
@@ -16,14 +16,13 @@
 apt-get -y install php openssh git wget
 ```
 
-## Installing (Kali Linux/Termux):
+## Installing (Kali Linux/Parrot os/Termux):
 
+git clone https://github.com/Adrilaw/hackercam.git
+cd hackercam
+bash hackcams.sh
 ```
-git clone https://github.com/techchipnet/CamPhish
-cd CamPhish
-bash camphish.sh
-```
-### Video Demo
+### Video Demohttps
 [![How to control android camera](https://img.youtube.com/vi/G_nNHrWwCOM/0.jpg)](https://www.youtube.com/watch?v=G_nNHrWwCOM)
 #### For More Video subcribe <a href="http://youtube.com/techchipnet">TechChip YouTube Channel</a>
 <p>CamPhish is created to help in penetration testing and it's not responsible for any misuse or illegal purposes.</p>
